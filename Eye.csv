@@ -1,0 +1,11 @@
+recordId,age,spectaclePrescription,astigmatic,tearRroductionRate,classLabelLenses
+1,young,myope,no,reduced,noncontact
+2,young,myope,no,normal,soft contact
+3,young,myope,yes,reduced,noncontact
+4,young,myope,yes,normal,hard contact
+5,young,hypermetrope,no,reduced,noncontact
+6,young,hypermetrope,no,normal,soft contact
+7,young,hypermetrope,yes,reduced,noncontact
+8,young,hypermetrope,yes,normal,hard contact
+9,pre-presbyopic,myope,no,reduced,noncontact
+10,pre-presbyopic,myope,no,normal,soft contact
