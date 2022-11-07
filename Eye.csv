@@ -1,4 +1,4 @@
-recordId,age,spectaclePrescription,astigmatic,tearRroductionRate,classLabelLenses
+recordId,age,spectaclePrescription,astigmatic,tearProductionRate,classLabelLenses
 1,young,myope,no,reduced,noncontact
 2,young,myope,no,normal,soft contact
 3,young,myope,yes,reduced,noncontact
